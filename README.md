@@ -1,1 +1,3 @@
 # WOF-ground-station
+
+Programı çalıştırmak için VS ve Nuget GMAP eklentisi yüklü olmalıdır...
