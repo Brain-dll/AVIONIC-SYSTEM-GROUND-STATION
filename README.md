@@ -1,5 +1,8 @@
 # WOF-ground-station
 
+Kullanıcı adı ve şifre ile şimdilik başkaları tarafından kullanıma kapalıdır.
+Kaynak kodu paylaşılmamıştır.
+
 Programı çalıştırmak için VS ve Nuget GMAP eklentisi yüklü olmalıdır...
 
 Sqliteın bazı dll leri sebebiyle setup oluşturmak sıkıtı çıkarabilir.
