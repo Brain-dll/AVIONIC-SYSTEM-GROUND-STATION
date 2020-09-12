@@ -13,7 +13,7 @@ Setup projesini ekledikten sonra bu dosyaları da birincil dosyalarla beraber Ap
 Geriye kalan kurulumları yap
 Ilgili linkleri aşağıdan bulabilirsin
 
-Setup projesi oluştururken 
+
 https://www.youtube.com/watch?v=-dRfwPWzQcc
 https://www.youtube.com/watch?v=zsPK940q50g
 
