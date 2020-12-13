@@ -17,5 +17,4 @@ Ilgili linkleri aşağıdan bulabilirsin
 https://www.youtube.com/watch?v=-dRfwPWzQcc
 https://www.youtube.com/watch?v=zsPK940q50g
 
-Bir sıkıntı oluşursa benimle iletişime geçmekten çekinme
 Kolay Gelsin...
